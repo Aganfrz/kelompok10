@@ -91,7 +91,7 @@
     <!-- Footer -->
     <footer class="bg-darkblue text-white text-center py-3">
     <p class="text-shadow">
-        Alamat : Jl.coffeeshop No. 17
+        Alamat : Jl.coffeeshop No. 1 
     </p>
     <p class="text-shadow">
         <!-- Logo WhatsApp diambil dari folder 'images' -->
