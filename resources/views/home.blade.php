@@ -26,7 +26,7 @@
     <h2 class="text-center mb-4">Product</h2>
     <div class="row justify-content-center">
         <!-- Card 1 -->
-        <div class="col-md-4 mb-4 d-flex justify-content-center">
+        <div class="col-md-6 mb-6 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;">
                 <img src="{{ asset('images/esspreso.jpg') }}" class="card-img-top" alt="Makanan Kemasan" style="height: 200px; object-fit: cover;">
                 <div class="card-body">
@@ -46,7 +46,7 @@
         </div>
 
         <!-- Card 2 -->
-        <div class="col-md-4 mb-4 d-flex justify-content-center">
+        <div class="col-md-6 mb-6 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;">
                 <img src="{{ asset('images/arabika.jpg') }}" class="card-img-top" alt="Kopi Arabika" style="height: 200px; object-fit: cover;">
                 <div class="card-body">
@@ -66,7 +66,7 @@
         </div>
 
         <!-- Card 3 -->
-        <div class="col-md-4 mb-4 d-flex justify-content-center">
+        <div class="col-md-6 mb-6 d-flex justify-content-center">
             <div class="card shadow" style="width: 18rem;">
                 <img src="{{ asset('images/nescafe-gold.jpg') }}" class="card-img-top" alt="Nescafe Gold" style="height: 200px; object-fit: cover;">
                 <div class="card-body">
