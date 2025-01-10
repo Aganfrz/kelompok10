@@ -23,7 +23,7 @@
 
     <!-- Image Cards Section -->
     <div class="container my-5">
-    <h2 class="text-center mb-4">Products</h2>
+    <h2 class="text-center mb-4">Product</h2>
     <div class="row justify-content-center">
         <!-- Card 1 -->
         <div class="col-md-4 mb-4 d-flex justify-content-center">
