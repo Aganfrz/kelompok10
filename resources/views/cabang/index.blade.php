@@ -29,7 +29,7 @@
                                         <form action="{{ route('cabang.destroy', $cabang->id) }}" method="POST" style="display:inline;">
                                             @csrf
                                             @method('DELETE')
-                                            <x-primary-button class="bg-red-500 text-red-600 hover:text-black hover:bg-red-400">Hapus</x-primary-button>
+                                            <x-primary-button class="bg-green-500 text-green-600 hover:text-black hover:bg-green-400">Hapus</x-primary-button>
                                         </form>
                                 </td>
                             </tr>
