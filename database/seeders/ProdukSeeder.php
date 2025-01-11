@@ -25,7 +25,7 @@ class ProdukSeeder extends Seeder
             [
                 'nama' => 'Robusta',
                 'deskripsi' => 'Kopi robusta',
-                'harga' => 30000.00,                
+                'harga' => 30000.00,                              
             ],
         ];
 
