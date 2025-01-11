@@ -2,7 +2,7 @@
     @hasrole('owner')
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Cabang Minimarket') }}
+            {{ __('Cabang Coffee shop') }}
         </h2>
     </x-slot>
 
