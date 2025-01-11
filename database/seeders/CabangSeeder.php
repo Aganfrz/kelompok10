@@ -16,23 +16,15 @@ class CabangSeeder extends Seeder
         //
         Cabang::create([
             'nama' => 'Cabang 1',
-            'alamat' => 'Jl. Raya No. 1',
+            'alamat' => 'Jl. Coffee No. 1',
         ]);
         Cabang::create([
             'nama' => 'Cabang 2',
-            'alamat' => 'Jl. Raya No. 2',
+            'alamat' => 'Jl. Coffee No. 2',
         ]);
         Cabang::create([
             'nama' => 'Cabang 3',
-            'alamat' => 'Jl. Raya No. 3',
-        ]);
-        Cabang::create([
-            'nama' => 'Cabang 4',
-            'alamat' => 'Jl. Raya No. 4',
-        ]);
-        Cabang::create([
-            'nama' => 'Cabang 5',
-            'alamat' => 'Jl. Raya No. 5',
+            'alamat' => 'Jl. Coffee No. 3',
         ]);
         
     }
