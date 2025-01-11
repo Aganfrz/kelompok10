@@ -2,7 +2,7 @@
     @hasrole('supervisor')
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Stok di Cabang Minimarket') }}
+            {{ __('Stok di Cabang Coffee Shop') }}
         </h2>
     </x-slot>
 
@@ -45,7 +45,7 @@
     @hasrole('manager')
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Stok di Semua Cabang Minimarket') }}
+            {{ __('Stok di Semua Cabang Coffee Shop') }}
         </h2>
     </x-slot>
 
